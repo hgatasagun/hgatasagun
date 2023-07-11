@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hande Gul Atasagun</h1>
+<h1 align="center">Hi, I'm Hande Gul Atasagun</h1>
 <h3 align="center">Data enthusiast | Textile Engineer | PhD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hgatasagun&label=Profile%20views&color=0e75b6&style=flat" alt="hgatasagun" /> </p>
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hande gul atasagun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hande gul atasagun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hande gül atasağun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hande gül atasağun" height="30" width="40" /></a>
 <a href="https://kaggle.com/hande atasagun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hande atasagun" height="30" width="40" /></a>
 </p>
 
