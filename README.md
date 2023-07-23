@@ -1,11 +1,15 @@
 <h1 align="center">Hi, I'm Hande Gul Atasagun</h1>
-<h3 align="center">Data enthusiast | Textile Engineer | PhD</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hgatasagun&label=Profile%20views&color=0e75b6&style=flat" alt="hgatasagun" /> </p>
 
 Hello! I am an enthusiastic textile engineer with a passion for data science. During my postgraduate studies, I focused on textile quality control and laboratory work. I developed a keen interest in statistics and data analysis and applied these skills in my laboratory experiments.
 
 The power and potential of the data science world captivated me, and my interest in the field grew stronger. Currently, I am working to gain more knowledge and skills in data science and artificial intelligence. I am excited to take new steps towards a career in data science.
+
+You can find my projects here:
+
+
 
 - 📫 How to reach me **hgatasagun@outlook.com**
 
