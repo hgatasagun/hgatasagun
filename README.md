@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hgatasagun&label=Profile%20views&color=0e75b6&style=flat" alt="hgatasagun" /> </p>
 
-Hello! I am an enthusiastic textile engineer with a passion for data science. During my postgraduate studies, I focused on textile quality control and laboratory work. I developed a keen interest in statistics and data analysis and applied these skills in my laboratory experiments.
+I'm a passionate textile engineer with a strong interest in data science. During my postgraduate studies, I specialized in textile quality control and conducted various laboratory experiments where I applied my skills in statistics and data analysis.
 
-The power and potential of the data science world captivated me, and my interest in the field grew stronger. Currently, I am working to gain more knowledge and skills in data science and artificial intelligence. I am excited to take new steps towards a career in data science.
+The potential of the data science field excites me, and I'm eager to expand my knowledge and expertise in data science and artificial intelligence. Currently, I'm actively pursuing opportunities to further my career in data science and explore the endless possibilities this field offers.
 
 You can find my projects here:
 
