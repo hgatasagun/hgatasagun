@@ -11,6 +11,10 @@ You can find my projects here:
 
 [Data Science Portfolio](https://github.com/hgatasagun?tab=repositories)
 
+|           Başlık 1          |
+|---------|---------|---------|
+| [Linkedin](https://linkedin.com/in/handegulatasagun) | [Kaggle](https://www.kaggle.com/handeatasagun)  | [Researchgate](https://www.researchgate.net/profile/Hande-Gul-Atasagun) |
+
 
 
 - 📫 How to reach me **hgatasagun@outlook.com**
