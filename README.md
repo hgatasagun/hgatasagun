@@ -9,6 +9,8 @@ The potential of the data science field excites me, and I'm eager to expand my k
 
 You can find my projects here:
 
+[Data Science Portfolio](https://github.com/hgatasagun?tab=repositories)
+
 
 
 - 📫 How to reach me **hgatasagun@outlook.com**
