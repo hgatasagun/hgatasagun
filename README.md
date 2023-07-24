@@ -12,7 +12,6 @@ You can find my projects here:
 [Data Science Portfolio](https://github.com/hgatasagun?tab=repositories)
 
 ## Connect with me:
-|------------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------------------|
 | [Linkedin](https://linkedin.com/in/handegulatasagun) | [Kaggle](https://www.kaggle.com/handeatasagun)  | [Researchgate](https://www.researchgate.net/profile/Hande-Gul-Atasagun) |
 
 
